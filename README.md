@@ -1,2 +1,2 @@
 # Database-Payment-Service-Provider-Company-EDA
-The project aims to understand the behavior of the financial transactions of the merchants of a payment service provider company, through data transformation and filtering using SQL for the creation of queries, subqueries, joins, etc.
+The project consists of the exploratory analysis of a database of financial transactions of merchants of a payment services provider. SQL was used to create the database and tables, as well as to insert the corresponding values. Subsequently, data transformation and filtering was performed using queries, subqueries, aggregation functions, joins and temporary tables to understand the behavior of merchants' financial transactions.
